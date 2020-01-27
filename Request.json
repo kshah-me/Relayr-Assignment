@@ -1,0 +1,29 @@
+{
+  "reqData" : {
+    "debug" : "true",
+    "reqType" : "A",
+    "reqVersion" : "TES1",
+    "reqNoSeats" : "1",
+    "posData" : {
+      "posOrig" : "C",
+      "posCountry" : "CH",
+      "posCity" : "LUG",
+      "posGds" : "1A",
+      "posPcc" : "BRULX08BC",
+      "posIata" : "8491954"
+    },
+    "itnData" : [ {
+      "itnNo" : "1",
+      "segData" : [ {
+        "segNo" : "1",
+        "segActnblInd" : "A",
+        "segCrr" : "LX",
+        "segFltNo" : "2903",
+        "segOrgn" : "LUG",
+        "segDstn" : "ZRH",
+        "segDeptDate" : "20191114",
+        "segArvlDate" : "20191114"
+      } ]
+    } ]
+  }
+}
