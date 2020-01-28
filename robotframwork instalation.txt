@@ -91,3 +91,34 @@ Helpful TIPS:
     RF GitHub page - 
     https://github.com/robotframework
 
+
++___+_+_+_+_+_+_+_++++++++++++++++_++++++++++++++++++_+_+
+
+
+Install Following Libraries using through command Line:
+1)pip install robot framework
+2)pip install requests
+3)pip install robotframework-requests
+4)pip install -U robotframework-jsonlibrary
+
+pip list :- to chech installed library and below library should be installed:-
+
+robot framework
+requests
+robotframework-requests
+robotframework-jsonlibrary
+jsonpath_rw
+jsonpath_rw_ext
+
+Add below library to pycharm:-
+
+location:- file-->setting-->select project---> project interpreter.
+ click on + button to add library.
+ search for library and click on install
+
+robot framework
+requests
+robotframework-requests
+robotframework-jsonlibrary
+jsonpath_rw
+jsonpath_rw_ext
